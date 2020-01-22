@@ -3,7 +3,7 @@ require_relative 'lib/to_alnum/version'
 Gem::Specification.new do |spec|
   spec.name          = "to_alnum"
   spec.version       = ToAlnum::VERSION
-  spec.authors       = ["take1931032@gmail.com"]
+  spec.authors       = ["Masahieo Takahashi"]
   spec.email         = ["take1931032@gmail.com"]
 
   spec.summary       = %q{rite a short summary, because RubyGems requires one.}
