@@ -22,6 +22,7 @@ class Integer
     when 17; 'seventeen'
     when 18; 'eighteen'
     when 19; 'nineteen'
+    when 20; 'twenty'
     end
   end
 end
